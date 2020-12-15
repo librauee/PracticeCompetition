@@ -1,5 +1,9 @@
 # 借贷风险预测
 
+## 赛题来源
+
+* [DC竞赛](https://www.dcjingsai.com/v2/cmptDetail.html?id=355)
+
 ## 任务
 * 给定银行用户信息，建立分类模型，预测银行用户的信用好坏
 
