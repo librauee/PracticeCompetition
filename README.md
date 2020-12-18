@@ -1,5 +1,13 @@
 # 数据科学竞赛练习赛Top解决方案
 
+| Name                       | Time |Platform | Link | Ranking |
+| -------------------------- | ------ | ------- | ------- |------- |
+| 租金预测      | 2020.12| DC竞赛|[Code]()                                    |    2 / 634 |
+| 客户流失判断      | 2020.12| DC竞赛|[Code](https://github.com/librauee/PracticeCompetition/tree/master/customer_churn_judgement)                                    |   1 / 230 |
+| 识别失信企业      | 2020.12| DC竞赛|[Code](https://github.com/librauee/PracticeCompetition/tree/master/dishonest_enterprise)    | 2 / 305 |
+| 借贷风险预测      | 2020.12 | DC竞赛|[Code](https://github.com/librauee/PracticeCompetition/tree/master/loan_risk_forecast)     |1 / 273 |
+
+
 ## Note
 
 * 本仓库包含数据科学竞赛练习赛中的Top解决方案
